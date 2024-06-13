@@ -140,7 +140,7 @@
     },
     {
       "title": "Quote",
-      "id": "quot",
+      "id": "quote",
       "plugins": {
         "xwalk": {
           "page": {
